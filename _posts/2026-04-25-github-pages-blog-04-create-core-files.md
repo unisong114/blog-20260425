@@ -3,6 +3,9 @@ title: "GitHub Pages 블로그 만들기 4. 필수 파일 구성하기"
 date: 2026-04-25 17:23:00 +0900
 categories: [github-pages, jekyll, blog]
 tags: [jekyll, markdown, config, posts]
+parent: Latest Posts
+nav_order: 5
+nav_exclude: false
 ---
 
 # GitHub Pages 블로그 만들기 4. 필수 파일 구성하기

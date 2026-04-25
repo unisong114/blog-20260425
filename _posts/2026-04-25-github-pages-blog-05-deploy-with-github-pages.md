@@ -3,6 +3,9 @@ title: "GitHub Pages 블로그 만들기 5. GitHub Actions로 배포하기"
 date: 2026-04-25 17:24:00 +0900
 categories: [github-pages, jekyll, blog]
 tags: [github-pages, github-actions, deploy, workflow]
+parent: Latest Posts
+nav_order: 4
+nav_exclude: false
 ---
 
 # GitHub Pages 블로그 만들기 5. GitHub Actions로 배포하기

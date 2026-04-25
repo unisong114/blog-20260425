@@ -3,6 +3,9 @@ title: "GitHub Pages 블로그 만들기 6. 첫 글 작성과 자주 만나는 �
 date: 2026-04-25 17:25:00 +0900
 categories: [github-pages, jekyll, blog]
 tags: [posts, markdown, troubleshooting, github-pages]
+parent: Latest Posts
+nav_order: 3
+nav_exclude: false
 ---
 
 # GitHub Pages 블로그 만들기 6. 첫 글 작성과 자주 만나는 문제

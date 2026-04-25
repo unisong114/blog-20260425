@@ -3,6 +3,9 @@ title: "Power BI 소개: 개념, 구성 요소, 샘플 살펴보기"
 date: 2026-04-25 18:05:00 +0900
 categories: [power-bi, data, tutorial]
 tags: [power-bi, microsoft, visualization, bi]
+parent: Latest Posts
+nav_order: 1
+nav_exclude: false
 ---
 
 # Power BI 소개: 개념, 구성 요소, 샘플 살펴보기

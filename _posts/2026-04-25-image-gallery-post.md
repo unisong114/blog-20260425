@@ -3,6 +3,9 @@ title: "업로드한 이미지를 포스트에서 사용하는 예시"
 date: 2026-04-25 17:40:00 +0900
 categories: [blog, images]
 tags: [images, markdown, github-pages, jekyll]
+parent: Latest Posts
+nav_order: 2
+nav_exclude: false
 ---
 
 # 업로드한 이미지를 포스트에서 사용하는 예시
