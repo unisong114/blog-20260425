@@ -23,3 +23,23 @@ GitHub에서 아래만 확인하면 됩니다.
 배포 주소:
 
 - <https://unisong114.github.io/blog-20260425/>
+
+## 이미지 넣는 위치
+
+포스트에 넣을 이미지는 아래 경로에 두면 됩니다.
+
+- 공용 이미지: `assets/images/`
+- 글별 이미지: `assets/images/posts/`
+
+예시:
+
+- `assets/images/posts/github-pages-flow.png`
+- `assets/images/posts/jekyll-theme-settings.png`
+
+Markdown에서는 이렇게 사용할 수 있습니다.
+
+```md
+![설명]({{ '/assets/images/posts/github-pages-flow.png' | relative_url }})
+```
+
+프로젝트 페이지는 `baseurl`이 붙기 때문에, 가능하면 위처럼 `relative_url` 필터를 사용하는 편이 안전합니다.
