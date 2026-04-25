@@ -1,0 +1,36 @@
+title: Unisong Blog
+description: Notes, posts, and docs powered by Just the Docs on GitHub Pages.
+theme: just-the-docs
+
+url: https://unisong114.github.io
+baseurl: /blog-20260425
+
+aux_links:
+  GitHub Repository: https://github.com/unisong114/blog-20260425
+
+nav_enabled: true
+search_enabled: true
+heading_anchors: true
+color_scheme: light
+
+collections:
+  posts:
+    permalink: "/:collection/:year-:month-:day-:title/"
+    output: true
+
+just_the_docs:
+  collections:
+    posts:
+      name: Posts
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+      nav_exclude: true
+  - scope:
+      path: ""
+    values:
+      layout: default
